@@ -1,0 +1,6 @@
+pandas
+google-generativeai
+python-dotenv
+streamlit
+jinja2
+nest_asyncio
