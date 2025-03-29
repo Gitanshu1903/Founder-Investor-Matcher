@@ -36,8 +36,8 @@ https://github.com/user-attachments/assets/fe43830a-02b1-44a6-b36a-203f25d4dc7b
 
 1.  **Clone Repository (if applicable):** If this code is in a Git repository, clone it:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Gitanshu1903/Founder-Investor-Matcher.git
+    cd Founder-Investor-Matcher
     ```
     Otherwise, ensure you have the Python script/notebook and CSV data files in the same directory.
 
