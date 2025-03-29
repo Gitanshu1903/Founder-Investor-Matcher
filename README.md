@@ -27,6 +27,11 @@ This project aims to develop an AI-powered system that matches startup founders 
     *   `logging`: Tracking progress and errors
 *   **Environment:** Jupyter Notebook / Lab (for the primary user interface)
 
+## App Video
+
+https://github.com/user-attachments/assets/fe43830a-02b1-44a6-b36a-203f25d4dc7b
+
+
 ## Setup Instructions
 
 1.  **Clone Repository (if applicable):** If this code is in a Git repository, clone it:
